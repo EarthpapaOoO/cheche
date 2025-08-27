@@ -6,8 +6,8 @@
   * 小车连接上电脑热点后,在网络设置中找到小车的ip
   * 用ssh连接该ip
 ##  小车第二步,用vscode之类的软件连接小车(可选,极度推荐)
-  finalshell之类的软件非常轻量化和通用,但是使用和编辑体验太差,建议使用vscode,
-  但是使用vscode之前必须**先在树莓派内下载gcc**,这样在第一次连接时才能下载vscode server为ssh连接服务
-  如何用vscode进行ssh连接省略...
+  * finalshell之类的软件非常轻量化和通用,但是使用和编辑体验太差,建议使用vscode,
+  * 但是使用vscode之前必须**先在树莓派内下载gcc**,这样在第一次连接时才能下载vscode server为ssh连接服务
+  * 如何用vscode进行ssh连接省略...
 ##  小车第三步,编辑代码
   
